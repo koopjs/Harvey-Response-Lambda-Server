@@ -1,0 +1,17 @@
+{
+  "name": "harvey-sheets-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Fenton <dfenton@esri.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@koopjs/output-wfs": "0.0.1",
+    "@koopjs/provider-google-sheets": "^1.1.1",
+    "aws-serverless-express": "^3.0.2",
+    "koop": "^3.5.2"
+  }
+}

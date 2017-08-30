@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "koop-harvey-google-sheets-executor",
+    "name": "koop-harvey-google-sheets",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "598jgtclwa"
+  }
+}
