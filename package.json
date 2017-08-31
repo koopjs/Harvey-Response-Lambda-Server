@@ -10,8 +10,9 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@koopjs/output-wfs": "0.0.1",
-    "@koopjs/provider-google-sheets": "^1.1.1",
+    "@koopjs/provider-google-sheets": "^1.1.5",
     "aws-serverless-express": "^3.0.2",
-    "koop": "^3.5.2"
+    "koop": "^3.5.2",
+    "winnow": "^1.12.2"
   }
 }
